@@ -3,6 +3,7 @@
 1. 버전 관리가 무엇인가?
   동일한 파일명에 진행 과정들을 기록을 하는 것. (like..깃발?)
 2. CLI(Command Line Interface)를 왜 배워야 하는가?
+  CLI는 어렵기 때문에 배워야 한다. 
 
 
 # git != GitHub
