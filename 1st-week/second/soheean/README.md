@@ -3,6 +3,7 @@
 1. 버전 관리가 무엇인가?
 - 동일한 파일명 어쩌구 저쩌구
 2. CLI(Command Line Interface)를 왜 배워야 하는가?
+- cli는 어렵다 그렇기 때문에 외워야한다
 
 
 # git != GitHub
