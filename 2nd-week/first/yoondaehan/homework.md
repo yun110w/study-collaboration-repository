@@ -41,6 +41,7 @@ HEAD -> main은 현재 가리키고 있는 커밋의 위치가 제일 최신 com
 최신 commit 뿐만아니라 문서도 'message 1'일 때 상태로 돌아간다. 따라서 그냥 저 버전으로 돌아가겠다는 뜻이다.  
 2. `git revert 009fae8d669b3bc7eadb5558d2f6f16b50fa7e6e`을 하면 결과가 어떻게 되나요?  
 이 명령어를 사용하면 제일 최신 commit인 'message 1'을 되 바뀌지만 'message 2' commit이 삭제되지 않는다.  
+asd
 3. `git reset ...`과 `git revert ...`는 의미가 비슷한데, 용도에 차이를 두고 사용한다면 어떤 차이가 있나요?  
 
 
