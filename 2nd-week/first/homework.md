@@ -61,6 +61,8 @@ git checkout dev # dev로 이동
 4. 이 과제를 작성하고 본인의 remote repository로 push 한 뒤
 5. 강준우 repository에 `dev`라는 branch에 PR을 날려보세요. (push가 안될 경우 `git push --set-upstream dev-{이름}`로 push 해보세요.)
 6. 다했으면 하는 과정 각각을 스크린샷해서 여기에 올려주세요. 드래그앤 드랍으로 하면 됩니다.
+![alt text](./sources/screenshot1.png)
+![alt text](./sources/screenshot2.png)
 
 ### Advanced
 1. HEAD 옆 origin/main, origin/dev, origin/HEAD는 무슨 뜻일지 추측해보세요.
