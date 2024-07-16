@@ -75,10 +75,15 @@ git branch "message 4_1"
 
 3. 각자의 main branch의 최신 버전에서 `dev-{이름} (예: dev-junwoo)`이라는 브랜치를 만들고 (branch가 고장난 것 같으면 `dev-junwoo_1`처럼 만들어도 됩니다.)
 
-
+![alt text](image.png)
 
 4. 이 과제를 작성하고 본인의 remote repository로 push 한 뒤
+
+![alt text](image-1.png)
+
 5. 강준우 repository에 `dev`라는 branch에 PR을 날려보세요. (push가 안될 경우 `git push --set-upstream dev-{이름}`로 push 해보세요.)
+
+
 6. 다했으면 하는 과정 각각을 스크린샷해서 여기에 올려주세요. 드래그앤 드랍으로 하면 됩니다.
 
 ### Advanced
