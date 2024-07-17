@@ -56,9 +56,8 @@
 # 여러 파일로 하나의 버전<br><br>
 
 1. tracked file, untracked file의 차이는 무엇인가요?<br>
-   tracked file은 커밋이 돼서 히스토리에 올라간, git이 관리하는 파일이고<br>
-   untracked file은 커밋이 안 돼서 히스토리에 올라간 적이 없는, git이 관리하지 않는 파일이다.<br>
-   작업 중이던 아니던 상관이 없다.<br><br>
+   tracked file은 git이 관리하는 파일이고<br>
+   untracked file은 git이 관리하지 않는 파일이다.<br><br>
 
 2. git은 모든 파일을 항상 track(추적)하지 않는데 왜 그럴까요?<br>
    수많은 파일들을 모두 관리할 수는 없기 때문이다.<br>
