@@ -1,3 +1,9 @@
+## 1. 각자 폴더 만들기
+## 2. 각자 폴더에 붙여넣기
+## 3. `dev`로 브랜치 변경 후 `git pull`
+## 4. `dev-{이름}-3rd`브랜치 생성 이후 `checkout`하고 작업하기
+
+
 # Branch & Merge
 1. base는 무엇을 의미하나요?
 2. branch, merge, confilct가 각각 무엇을 의미하는지 알려주세요.
