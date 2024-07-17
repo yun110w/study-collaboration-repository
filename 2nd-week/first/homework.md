@@ -58,9 +58,13 @@ git reset --hard ae8b # "message2"인 버전 이후에 쌓인 버전은 모두 �
 ![alt text](./sources/commit_log2.png) *fig 3.*<br><br><br>
 
 1. 각자의 main branch의 최신 버전에서 `dev-{이름} (예: dev-junwoo)`이라는 브랜치를 만들고 (branch가 고장난 것 같으면 `dev-junwoo_1`처럼 만들어도 됩니다.)<br>
-2. 이 과제를 작성하고 본인의 remote repository로 push 한 뒤<br>
-3. 강준우 repository에 `dev`라는 branch에 PR을 날려보세요. (push가 안될 경우 `git push --set-upstream dev-{이름}`로 push 해보세요.)<br>
+   ![alt text](image.png)
+2. 이 과제를 작성하고 본인의 remote repository로 push 한 뒤
+3. 강준우 repository에 `dev`라는 branch에 PR을 날려보세요. (push가 안될 경우 `git push --set-upstream dev-{이름}`로 push 해보세요.)
 4. 다했으면 하는 과정 각각을 스크린샷해서 여기에 올려주세요. 드래그앤 드랍으로 하면 됩니다.<br>
+   ![alt text](image-2.png)<br>
+   ![alt text](image-3.png)<br>
+   ![alt text](image-4.png)<br><br><br>
 
 ### Advanced
 1. HEAD 옆 origin/main, origin/dev, origin/HEAD는 무슨 뜻일지 추측해보세요.<br>
